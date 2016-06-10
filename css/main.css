@@ -5,3 +5,8 @@ body {
 .panel-heading {
     padding : 5rem;
 }
+
+.footer {
+	background-color: #DDD;
+	padding: 2rem ;
+}
